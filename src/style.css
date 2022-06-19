@@ -1,0 +1,21 @@
+* {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bolder;
+}
+
+html, body {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.bg-light {
+    background-color: pink !important;
+}
+
+section {
+    padding-top: 76px;
+}
+
