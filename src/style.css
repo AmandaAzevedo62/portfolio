@@ -1,6 +1,5 @@
 * {
     font-family: 'Montserrat', sans-serif;
-    font-weight: bolder;
 }
 
 html, body {
@@ -11,11 +10,35 @@ html, body {
     box-sizing: border-box;
 }
 
-.bg-light {
+/* .bg-light {
     background-color: pink !important;
+} */
+nav {
+    border-bottom: 5px solid #FFF0F5;
+}
+
+.text-light {
+    color: #DB7093 !important;
+}
+
+#home {
+    background-image: url(./assets/background-home.png);
+}
+
+#text-home {
+    margin: 104px;
+}
+
+#text-name {
+    font-size: 80px;
+    font-weight: 700;
+}
+
+#img-about {
+  
 }
 
 section {
-    padding-top: 76px;
+    padding-top: 100px;
 }
 
